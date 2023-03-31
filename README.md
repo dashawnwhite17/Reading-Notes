@@ -1,2 +1,2 @@
 # reading-notes
-Reading journal for Code Fellows
+Code Fellows reading journal
