@@ -6,7 +6,7 @@ Link to my portfolio: https://github.com/dashawnwhite17
 What growth mindset means to me..
 
 
-3 Reminders to stay in a growth mindset:
+##3 Reminders to stay in a growth mindset:
 
 1. Reminder 1
 2. Reminder 2
