@@ -1,7 +1,7 @@
 # My Reading Journal
 Hello! My name is DaShawn and I think Python is the best coding language to learn.
 
-The link to my portfolio: https://github.com/dashawnwhite17
+Link to my portfolio: https://github.com/dashawnwhite17
 
 What growth mindset means to me..
 
