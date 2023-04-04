@@ -1,5 +1,5 @@
 # My Reading Journal
-Hello! My name is DaShawn and I think Python is the best coding language to learn.
+Hello everyone My name is Da'Shawn White.
 
 ## What growth mindset means to me:
 
