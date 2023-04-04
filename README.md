@@ -1,13 +1,15 @@
 # My Reading Journal
 Hello! My name is DaShawn and I think Python is the best coding language to learn.
 
-Link to [***my github portfolio***](https://github.com/dashawnwhite17)
+## What growth mindset means to me:
 
-What growth mindset means to me..
-
+To me growth mindset is not just a way of making it through the work day. It should also be viewed as a way of thinking in every day life. 
+You should utilize a Growth Mindset to overcome a negative view of your day and turn it into a positive. You're seeing everything as a reason to progress and grow in life, instead of hindering your from reaching your goal(s).
 
 ## 3 Reminders to stay in a growth mindset:
 
-1. Reminder 1
-2. Reminder 2
-3. Reminder 3
+1. Realize that life 
+2.
+3.
+
+Link to [***my github portfolio***](https://github.com/dashawnwhite17)
