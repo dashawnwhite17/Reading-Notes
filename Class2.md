@@ -27,8 +27,12 @@
 > 4. cd ..
 > 5. Ls projects/new-project
 
-> Line 1. The user is changing directories to projects
-> Line 2. The user is making a new file, naming it "new-project" within the projects directory.
-> Line 3. The user is now either modifying the access or modification time to reflect a timeframe that they need.
-> Line 4. The user is changing their directory to the home directory.
-> Line 5. Now that the user has went back to the home directory, they're running the Ls(list) command to see what contents are within that current directory. 
+>> Line 1. The user is changing directories to projects
+> 
+>>Line 2. The user is making a new file, naming it "new-project" within the projects directory.
+> 
+>> Line 3. The user is now either modifying the access or modification time to reflect a timeframe that they need.
+> 
+>> Line 4. The user is changing their directory to the home directory.
+> 
+>> Line 5. Now that the user has went back to the home directory, they're running the Ls(list) command to see what contents are within that current directory. 
