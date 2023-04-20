@@ -5,7 +5,7 @@ This site contains all notes taken from courses 102 and 201 at Code Fellows.
 
 Link to [***My Github Portfolio***](https://github.com/dashawnwhite17)
 
-## 102-Notes
+## 102 Reading Notes
 
 > [**Class 01**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20102/Class1.md)
 > 
@@ -23,6 +23,5 @@ Link to [***My Github Portfolio***](https://github.com/dashawnwhite17)
 > 
 > [**Class 08**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20102/Class8.md)
 
-## 201-Notes
-
+## 201 Reading Notes
 
