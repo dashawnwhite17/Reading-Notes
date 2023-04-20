@@ -35,4 +35,6 @@
 > 
 >> Line 4. The user is changing their directory to the home directory.
 > 
->> Line 5. Now that the user has went back to the home directory, they're running the Ls(list) command to see what contents are within that current directory. 
+>> Line 5. Now that the user has went back to the home directory, they're running the Ls(list) command to see what contents are within that current directory.
+
+
