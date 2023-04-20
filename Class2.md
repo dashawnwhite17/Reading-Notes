@@ -37,5 +37,3 @@
 > 
 > Line 5. Now that the user has went back to the home directory, they're running the Ls(list) command to see what contents are within that current directory.
 
-<
-
