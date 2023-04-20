@@ -1,4 +1,4 @@
-# Class 2 Reading Assignment
+# Class 02 Reading Assignment
 ### Four important features in a text editor
 > 1. ***Code Completion***
 >   - Code completion allows one to start typing and will display suggestions based off of what you originally typed.
