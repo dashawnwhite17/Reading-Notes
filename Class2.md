@@ -25,11 +25,11 @@
  2. mkdir new-project
  3. touch new-project/newfile.md
  4. cd ..
-  5. Ls projects/new-project
+ 5. Ls projects/new-project
 
 > Line 1. The user is changing directories to projects
 > 
->Line 2. The user is making a new file, naming it "new-project" within the projects directory.
+> Line 2. The user is making a new file, naming it "new-project" within the projects directory.
 > 
 > Line 3. The user is now either modifying the access or modification time to reflect a timeframe that they need.
 > 
