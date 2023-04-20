@@ -9,7 +9,7 @@
 > 4. ***Extensions***
 >   * Extensions are just like add-ons for your text editor. They give you the ability to access more and create more functionalities that you otherwise would not be able to do. Compare them to purchasing a new DLC pack for your video games. Without a certain dlc pack, you can not play certain maps or unlock certain characters. 
 
-### Funtions of the following commands:
+### Functions of the following commands:
 > ***PWD(Print Working Directory):*** This tells you what your current working directory is.
 > 
 > ***LS(list):*** What's in your current location (List the contents of a Directory).
@@ -21,20 +21,20 @@
 >   * A Path is a string of characters used to identify a specific location within a directory.
 
 ### The following scenario ###
-> 1. cd projects
-> 2. mkdir new-project
-> 3. touch new-project/newfile.md
-> 4. cd ..
-> 5. Ls projects/new-project
+ 1. cd projects
+ 2. mkdir new-project
+ 3. touch new-project/newfile.md
+ 4. cd ..
+  5. Ls projects/new-project
 
->> Line 1. The user is changing directories to projects
+> Line 1. The user is changing directories to projects
 > 
->>Line 2. The user is making a new file, naming it "new-project" within the projects directory.
+>Line 2. The user is making a new file, naming it "new-project" within the projects directory.
 > 
->> Line 3. The user is now either modifying the access or modification time to reflect a timeframe that they need.
+> Line 3. The user is now either modifying the access or modification time to reflect a timeframe that they need.
 > 
->> Line 4. The user is changing their directory to the home directory.
+> Line 4. The user is changing their directory to the home directory.
 > 
->> Line 5. Now that the user has went back to the home directory, they're running the Ls(list) command to see what contents are within that current directory.
+> Line 5. Now that the user has went back to the home directory, they're running the Ls(list) command to see what contents are within that current directory.
 
 
