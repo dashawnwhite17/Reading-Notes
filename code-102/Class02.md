@@ -21,11 +21,11 @@
 >   * A Path is a string of characters used to identify a specific location within a directory.
 
 ### The following scenario ###
- 1. cd projects
- 2. mkdir new-project
- 3. touch new-project/newfile.md
- 4. cd ..
- 5. Ls projects/new-project
+1. cd projects
+2. mkdir new-project
+3. touch new-project/newfile.md
+4. cd .. 
+5. Ls projects/new-project
 
 > Line 1. The user is changing directories to projects
 > 
