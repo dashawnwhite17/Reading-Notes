@@ -7,21 +7,21 @@ Link to [***My Github Portfolio***](https://github.com/dashawnwhite17)
 
 ## 102 Reading Notes
 
-> [**Class 01: Learning Markdown**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code-102/Class1.md)
+> [**Class 01: Learning Markdown**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/code-102/Class01.md)
 > 
-> [**Class 02: The Coders Computer**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code-102/Class2.md)
+> [**Class 02: The Coders Computer**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/code-102/Class02.md)
 > 
-> [**Class 03: Revisions and the Cloud**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code-102/Class3.md)
+> [**Class 03: Revisions and the Cloud**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/code-102/Class03.md)
 > 
-> [**Class 04: Structure pages with HTML**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code-102/Class4.md)
+> [**Class 04: Structure pages with HTML**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/code-102/Class04.md)
 > 
-> [**Class 05: Design web pages with CSS**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code-102/Class5.md)
+> [**Class 05: Design web pages with CSS**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/code-102/Class05.md)
 > 
-> [**Class 06: Dynamic web pages with JavaScript**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code-102/Class6.md)
+> [**Class 06: Dynamic web pages with JavaScript**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/code-102/Class06.md)
 > 
-> [**Class 07: Programming with JavaScript**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code-102/Class7.md)
+> [**Class 07: Programming with JavaScript**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/code-102/Class07.md)
 > 
-> [**Class 08: Operators and Loops**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code-102/Class8.md)
+> [**Class 08: Operators and Loops**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/code-102/Class08.md)
 
 ## 201 Reading Notes
 
