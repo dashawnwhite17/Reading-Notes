@@ -25,32 +25,32 @@ Link to [***My Github Portfolio***](https://github.com/dashawnwhite17)
 
 ## 201 Reading Notes
 
-> [**Class 01**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class1.md)
+> [**Class 01**]()
 
-> [**Class 02**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class2.md)
+> [**Class 02**]()
 
-> [**Class 03**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class3.md)
+> [**Class 03**]()
 
-> [**Class 04**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class4.md)
+> [**Class 04**]()
 
-> [**Class 05**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class5.md)
+> [**Class 05**]()
 
-> [**Class 06**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class6.md)
+> [**Class 06**]()
 
-> [**Class 07**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class7.md)
+> [**Class 07**]()
 
-> [**Class 08**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class8.md)
+> [**Class 08**]()
 
-> [**Class 09**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class9.md)
+> [**Class 09**]()
 
-> [**Class 10**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class10.md)
+> [**Class 10**]()
 
-> [**Class 11**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class11.md)
+> [**Class 11**]()
 
-> [**Class 12**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class12.md)
+> [**Class 12**]()
 
-> [**Class 13**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class13.md)
+> [**Class 13**]()
 
-> [**Class 14**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class14.md)
+> [**Class 14**]()
 
-> [**Class 15**](https://github.com/dashawnwhite17/Reading-Notes/blob/main/Code%20201/Class15.md)
+> [**Class 15**]()
